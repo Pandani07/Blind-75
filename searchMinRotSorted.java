@@ -1,4 +1,3 @@
-package blind75;
 public class searchMinRotSorted {
     public int solution(int[] nums){
         if(nums.length==0) return -1;
