@@ -1,4 +1,3 @@
-package blind75;
 import java.util.*;;
 public class letterCombos_75 {
     public List<String> letterCombinations(String digits) {

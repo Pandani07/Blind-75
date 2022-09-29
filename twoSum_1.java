@@ -1,4 +1,3 @@
-package blind75;
 import java.util.*;
 public class twoSum_1 {
     public int[] solution(int[] nums, int target){

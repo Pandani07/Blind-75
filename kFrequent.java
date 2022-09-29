@@ -1,4 +1,3 @@
-package blind75;
 import java.util.*;;
 public class kFrequent {
     public int[] solution(int[] nums, int k){

@@ -1,4 +1,3 @@
-package blind75;
 
 public class buySellStock_121 {
     public int solution(int[] prices){

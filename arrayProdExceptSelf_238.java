@@ -1,4 +1,3 @@
-package blind75;
 public class arrayProdExceptSelf_238 {
     public int[] solution(int[] nums){
         int n = nums.length;

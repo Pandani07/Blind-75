@@ -1,4 +1,3 @@
-package blind75;
 public class numberBits_191 {
     public int solution(int n){
         int res=0;

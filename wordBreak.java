@@ -1,7 +1,5 @@
 import java.util.List;
 
-import Amazon.threesumClosest;
-
 public class wordBreak {
     public boolean wordBreak(String s, List<String> wordDict) {
         boolean[] dp = new boolean[s.length()+1];

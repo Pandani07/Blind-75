@@ -1,4 +1,3 @@
-package blind75;
 public class countingBits_338{
     public int[] solution(int n){
         int[] dp = new int[n+1];

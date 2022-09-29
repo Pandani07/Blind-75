@@ -1,4 +1,3 @@
-package blind75;
 public class missingNumber_268{
     public int solution(int[] nums){
         int res = nums.length;

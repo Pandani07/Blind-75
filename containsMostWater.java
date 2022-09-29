@@ -1,4 +1,3 @@
-package blind75;
 public class containsMostWater {
     public int solution(int[] heights){
         int res=0;
